@@ -14,16 +14,6 @@
 ### Process Overview
 <img src='plots/process_overview.png'>
 
-### Text Preprocessing 
-
-Raw Tweet
-- "Dear Donald Trump, We'll see you Scott Baio and raise you Meryl Streep #DemsInPhilly https://t.co/loHbvcOFAT"
-    
-Preprocessed
-- abc
-
-Vectorized
-- abc
 
 
 
