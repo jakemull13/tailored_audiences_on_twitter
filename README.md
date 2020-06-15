@@ -1,7 +1,9 @@
-# Outline
+### Tailored Audiences on Twitter
+*Insights from ~1,000,000 tweets about the 2016 Democratic National Convention*
+
+#### Outline
 
  - Background
- - Motivation
  - Data
  - Text Preprocessing
  - Identifying. and Labeling Groups
@@ -14,6 +16,19 @@
 ### Process Overview
 <img src='plots/process_overview.png'>
 
+
+### Background 
+Standard Audience Targeting: 
+- Age
+- Gender 
+- Geography
+- Generic interests (eg “shopping”, “sports”)
+
+My Tailored Audiences:
+- Mothers who are fans of Michelle Obama
+- Men who are fathers and religious
+- Teenagers who support Bernie Sanders
+- etc...
 
 
 
@@ -48,6 +63,9 @@
 
 ### Network Graph 
 <img src='graphs/million_openord_compressed copy.png'>
+<img src='slides/labeled_communities.jpg'>
+
+
 
 ### KMeans Clustering
 
