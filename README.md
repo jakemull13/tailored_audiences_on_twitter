@@ -44,20 +44,20 @@ My Tailored Audiences:
 **Labels**
 
 -  Bernie supporters, progressives who are talking  about a politicla revolution. Anti-war, justice and unity
--  Women, Mothers, Black, talking about Michelle bama
+-  Women, Mothers, Black, talking about Michelle Obama
 -  Mainstreams anchors hournalists hosts, mostly at CNN
 -  Men, fathers, dads, professionals in news media who are conservatives and talk about hillary
 -  Mothers
 -  religious conservatives
 -  Journalists talking about the DNC chair debbie wazzerman schultz
--  Hispanic and Latinx Persons
+-  Hispanic and Latinx Voters
 -  Authors and writers
 -  News people
 -  Conservatives talking about donna brazille and implicating corruption, talking about wikileaks
 -  Religious males (husbands) who work in media (radio
--  Muslim Persons 
+-  Muslim Voters
 -  Reporterrs
--  Teenagers, young latina 
+-  Teenagers, Young Females
 -  Talking about mental illness and demi lovato (?)
 
 
